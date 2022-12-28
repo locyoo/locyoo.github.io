@@ -1,9 +1,9 @@
 # Site settings
 title: 我不知啊
 SEOTitle: 我不知啊
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+header-img: http://tool.liumingye.cn/bingimg/img.php
+email: X2430442963X@outlook.com
+description: "和光同尘."
 keyword: "张思璇, CheongSzesuen, HTML, 网站, CSS, BLOG，blog, ZSX, cheongszesuen, cheong-szesuen"
 url: "https://wbza.tk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
