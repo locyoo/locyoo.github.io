@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username: CheongSzesuen
+weibo_username: CheongSzesuen
 zhihu_username: CheongSzesuen
 github_username: CheongSzesuen
-#twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
+twitter_username: CheongSzesuen
+facebook_username:  CheongSzesuen
+linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # 从2016年开始，GitHub 页面不支持“ pygments”，改用“ rouge”突出显示。
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: CheongSzesuen
 
 # Netease settings
 netease_comment: false
@@ -73,13 +73,12 @@ netease_comment: false
 #ga_domain: huangxuan.me
 
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
+sidebar: true # 是否使用侧栏
 sidebar-about-description: "和光同尘"
-sidebar-avatar: /img/Cheong Szesuen.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
-
+sidebar-avatar: /img/Cheong Szesuen.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 1 # 如果标签使用的次数大于指定的值，则会出现在右侧
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
