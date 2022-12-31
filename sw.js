@@ -20,9 +20,9 @@ const PRECACHE_LIST = [
   "./js/CheongSzesuen Blog.min.js",
   "./js/snackbar.js",
   "./img/icon_wechat.png",
-  "./img/avatar-hux.jpg",
-  "./img/home-bg.jpg",
-  "./img/404-bg.jpg",
+  "./img/Cheong Szesuen.jpg",
+  "./img/home-bg.webp",
+  "./img/404-bg.webp",
   "./css/CheongSzesuen Blog.min.css",
   "./css/bootstrap.min.css"
   // "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css",
