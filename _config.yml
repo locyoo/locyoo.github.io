@@ -13,12 +13,15 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: CheongSzesuen
-zhihu_username: CheongSzesuen
+#weibo_username_none: CheongSzesuen
+#weibo_username_u: CheongSzesuen
+zhihu_username: luminouszhu-jiang-wan
 github_username: CheongSzesuen
-twitter_username: CheongSzesuen
-facebook_username:  CheongSzesuen
-linkedin_username:  firstname-lastname-idxxxx
+github_username: Cheong-Szesuen
+youtube_channel: UCYEbo0NW0UG1IrzD9X4_V7Q
+#twitter_username: CheongSzesuen
+#facebook_username:  CheongSzesuen
+#linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
 # 从2016年开始，GitHub 页面不支持“ pygments”，改用“ rouge”突出显示。
