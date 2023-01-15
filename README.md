@@ -21,7 +21,7 @@ tags:
 <br>
 - 感谢[W3School](https://www.w3school.com.cn/)、[Runoob（菜鸟教程）](https://www.runoob.com/)、[W3Cschool](https://www.w3cschool.cn/)和[MDN](https://developer.mozilla.org/)：它们教我HTML、CSS、Javascript。
 <br>
-- 感谢[创客贴](https://www.chuangkit.com/)：我使用它的工具做了[BLOG网站](https://wbza.tk/)和[主站](https://cheongszesuen.ml/)的图标。
+- 感谢[创客贴](https://www.chuangkit.com/)：我使用它的工具做了[BLOG网站](https://wbza.tk/)和[主站](https://cheongszesuen.cf/)的图标。
 <br>
 - 感谢[GitHub](https://github.com/)以及它的许多极其有用的工具之一[GitHub Pages](https://pages.github.com/)：GitHub为我提供了代码平台，而GitHub Pages则是更重要的网站工作，它可能是我最爱的网站，这里所有人足够谦虚，自由的上传代码。开源是大势所趋！
 <br>
@@ -204,12 +204,14 @@ Didn't get your email? Resend the code or update your email address.</center>**
 这一大节，我觉得最好有个GitHub Desktop和Visual Studio Code，会方便很多，下面会教有GitHub Desktop的方式，如果你熟练Git也可以~
 如果你是32位电脑就用不了GitHub Desktop咯，GitHub Desktop只有64位。
 ##### 1.如何下载Git或GitHub Desktop
-因为GitHub Desktop下载速度太太太太太太慢，Git还好有镜像网站（只有windows），[戳我通往Git镜像网站](https://npm.taobao.org/mirrors/git-for-windows/)。
+因为GitHub Desktop下载速度太太太太太太慢，Git还好有镜像网站（只有windows），<a target="_blank" href="https://npm.taobao.org/mirrors/git-for-windows/">戳我通往Git镜像网站<a>
+
 我放个网盘链接。解释一下，32bit是32位电脑的，64bit是64位电脑的，如果不知道可以右键“我的电脑”或“此电脑”查看RAM（内存）是否大于2GB，大于2GB就是64位电脑。
 阿里云和其他有点不一样，因为阿里云分享mac的GitHub的zip的时候提示不能分享，所以把它解压了，提示选择文件过多无法分享.....我把阿里云的GitHub Desktop删了。
-[百度云链接](https://pan.baidu.com/s/1NMg6thq9ByybKpvKTKkitg?pwd=Git6)<br>
-[阿里云链接](https://www.aliyundrive.com/s/Ye4mQmJQEeQ)<br>
-[蓝奏云链接](https://wwxo.lanzouf.com/b01q8r2je) 密码:1f1w<br>
+
+<a target="_blank" href="https://npm.taobao.org/mirrors/git-for-windows/">百度云链接<a>[百度云链接](https://pan.baidu.com/s/1NMg6thq9ByybKpvKTKkitg?pwd=Git6)<br>
+<a target="_blank" href="https://npm.taobao.org/mirrors/git-for-windows/">阿里云链接<a>[阿里云链接](https://www.aliyundrive.com/s/Ye4mQmJQEeQ)<br>
+<a target="_blank" href="https://npm.taobao.org/mirrors/git-for-windows/">蓝奏云链接<a> 密码:1f1w<br>
 <a href="/download/GitHub&Git/Git-2.20.1-64-bit.exe" download="Git-2.20.1-64-bit.exe">本站下载Git</a> | <a href="/download/GitHub&Git/GitHubDesktopSetup.exe" download="GitHubDesktopSetup.exe">本站下载Windows版GitHub Desktop</a> | <a href="/download/GitHub&Git/MacGitHubDesktop.zip" download="MacGitHubDesktop.zip">本站下载Mac版GitHub Desktop</a>
 
 
@@ -600,9 +602,9 @@ tags:								#标签
 #### 需要的工具
 必须使用==电脑==，和==Chromium Edge==或者其他支持扩展的浏览器
 ##### 1.下载需要的工具
-[百度云链接](https://pan.baidu.com/s/1G13TUSU5WVXpsIszBI8n_A?pwd=free)<br>
-[阿里云链接](https://www.aliyundrive.com/s/NuXziubk2Yp)<br>
-[蓝奏云链接](https://wwxo.lanzouf.com/iC9y90jqvk8f)<br>
+<a target="_blank" href="https://pan.baidu.com/s/1G13TUSU5WVXpsIszBI8n_A?pwd=free">百度云链接<a><br>
+<a target="_blank" href="https://www.aliyundrive.com/s/NuXziubk2Yp">阿里云链接<a><br>
+<a target="_blank" href="https://wwxo.lanzouf.com/iC9y90jqvk8f">蓝奏云链接<a><br>
 <a href="/download/Freenom.zip" download="Freenom.zip">本站下载</a>
 <center><img src="/img/JianZhan/post-JianZhan-20.webp" alt="freenom资源解压内容" title="freenom资源解压内容"></center>
 
