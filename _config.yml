@@ -62,16 +62,16 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: CheongSzesuen
+#disqus_username: CheongSzesuen
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: a60378f3f955fe5ab64c                           #生成的clientID
+  clientSecret: 9757fcc8f91772919eb8eea0efe65e95a9aafd69    #生成的clientSecret
+  repo: wbza-gitalk    #仓库名称
+  owner: Cheong-Szesuen    #github用户名
+  admin: CheongSzesuen
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Netease settings
@@ -91,7 +91,7 @@ sidebar-about-description: "和光同尘"
 sidebar-avatar: /img/Cheong Szesuen.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # 如果标签使用的次数大于指定的值，则会出现在右侧
+featured-condition-size: 2 # 如果标签使用的次数大于指定的值，则会出现在右侧
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
@@ -104,5 +104,5 @@ page-mathjax: false
 friends:
   [
     { title: "我的个人网站", href: "http://cheongszesuen.cf/" },
-    { title: "Hotel Zulu", href: "https://https://dangerous-hhz.rth1.one/" },
+    { title: "Hotel Zulu", href: "https://still-alive-hhz.github.io/" },
   ]
