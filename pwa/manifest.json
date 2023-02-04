@@ -1,7 +1,7 @@
 {
-  "name": "我不知啊",
-  "short_name": "我不知啊",
-  "description": "介里洗张思璇的个人博客",
+  "name": "Hux Blog",
+  "short_name": "Hux Blog",
+  "description": "About an engineer & designer who loves web.",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
