@@ -1,3 +1,21 @@
+---
+layout:     post
+title:      我是如何建站的？
+subtitle:   How I built this site？
+date:       2022-12-29
+author:     CheongSzesuen
+header-img: img/post/post-bg-TengPu.webp
+catalog: true
+tags:
+    - 原创
+    - 建站
+    - 教程
+    - HTML
+    - Jekyll
+    - CSS
+    - GitHub
+    - CloudFlare
+---
 # 珠玉在前
 - 我需要感谢[毛若昕先生](https://maorx.cn/)的[热铁盒](https://www.retiehe.com/)旗下的[网页托管](https://host.retiehe.com/)：这也许对于我并不是一个很好的网页托管平台，但它发挥了抛砖引玉这个最重要的作用，让我开始接触「前端」
 <br>
