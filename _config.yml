@@ -8,7 +8,7 @@ keyword: "张思璇, CheongSzesuen, HTML, 网站, CSS, BLOG，blog, ZSX, cheongs
 url: "https://wbza.tk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
-# 发布未来日期的文章或收集文件
+# Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
@@ -17,14 +17,12 @@ RSS: false
 #weibo_username_u: CheongSzesuen
 zhihu_username: luminouszhu-jiang-wan
 github_username: CheongSzesuen
-github_username: Cheong-Szesuen
-youtube_channel: UCYEbo0NW0UG1IrzD9X4_V7Q
-#twitter_username: CheongSzesuen
-#facebook_username:  CheongSzesuen
+#twitter_username: huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
-# 从2016年开始，GitHub 页面不支持“ pygments”，改用“ rouge”突出显示。
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
@@ -37,8 +35,8 @@ exclude:
     "README.md",
     "README.zh.md",
   ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`(如果您想自定义锚点，请查看行: ‘ post.html’的181)
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:(如果你在中国有时区问题(例如 # 68) ，不要评论使用这个:)
+anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
+# If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN
 
 # Gems
@@ -62,17 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-#disqus_username: CheongSzesuen
-
-# Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: a60378f3f955fe5ab64c                           #生成的clientID
-  clientSecret: 9757fcc8f91772919eb8eea0efe65e95a9aafd69    #生成的clientSecret
-  repo: wbza-gitalk    #仓库名称
-  owner: Cheong-Szesuen    #github用户名
-  admin: CheongSzesuen
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -82,13 +70,14 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # 是否使用侧栏
 sidebar-about-description: "和光同尘"
 sidebar-avatar: /img/Cheong Szesuen.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
+
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 2 # 如果标签使用的次数大于指定的值，则会出现在右侧
