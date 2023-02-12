@@ -1,10 +1,10 @@
 # Site settings
 title: 我不知啊
-SEOTitle: 我不知啊
+SEOTitle: 我不知啊 | Hotel Zulu和Cheong Szesuen的共同BLOG
 header-img: "img/home-bg.webp"
 email: X2430442963X@outlook.com
 description: "和光同尘."
-keyword: "张思璇, CheongSzesuen, HTML, 网站, CSS, BLOG，blog, ZSX, cheongszesuen, cheong-szesuen"
+keyword: "张思璇, CheongSzesuen, HTML, 网站, CSS, BLOG，blog, ZSX, cheongszesuen, cheong-szesuen，怀瑾，WaiJade，HHZ，Hotle Zulu，侯皓哲，启智"
 url: "https://wbza.tk" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
