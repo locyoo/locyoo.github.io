@@ -1,4 +1,3 @@
-
 # 珠玉在前
 - 我需要感谢[毛若昕先生](https://maorx.cn/)的[热铁盒](https://www.retiehe.com/)旗下的[网页托管](https://host.retiehe.com/)：这也许对于我并不是一个很好的网页托管平台，但它发挥了抛砖引玉这个最重要的作用，让我开始接触「前端」
 <br>
@@ -579,7 +578,17 @@ tags:								#标签
 在这里介绍[Freenom](https://www.freenom.com)，这是为数不多**免费**提供[顶级域名](https://baike.baidu.com/item/%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D/2152551)的域名服务商。<br>
 它提供`.tk`(南太平洋岛国托克劳Tokelau)`.ml`(马里共和国Republic of Mali) `.ga`（加蓬共和国The Gabonese Republic）`.cf`（中非共和国Central African Republic）`.gq`（赤道几内亚共和国The Republic of Equatorial Guinea）<br>
 这些国家因为都比较小，也不怎么发达，所以域名也没什么用，就给Freenom，让Freenom售出，在Freenom上这四个域名可以免费使用一年（不过话说回来我一个ml的域名从八九月到现在2022年12月30日都三四个月了，我当时设置的三个月……不知道怎么搞的。去看了一下，“我的域名”页面以及没有了，但是这域名我还能用……沉默了）<br>
-注册域名的过程有些麻烦，我得到域名的过程很艰难，但最终得到了一个有用的方法，所以写在这。我的方法来自这位作者，在这里贴上[原帖地址](https://blog.csdn.net/weixin_46021924/article/details/104859155)。
+注册域名的过程有些麻烦，我得到域名的过程很艰难，但最终得到了一个有用的方法，所以写在这。我的方法来自这位作者，在这里贴上[原帖地址](https://blog.csdn.net/weixin_46021924/article/details/104859155)。<br>
+**注意**<br>
+2023年1月5日22:55:08，freenom无法注册，显示“IMPORTANT NOTICE: Because of technical issues the Freenom application for new registrations is temporarily out-of-order.
+Please accept our apologies for the inconvenience. We are working on a solution and hope to resume operations shortly.
+Thank you for your understanding.”<br>
+
+重要通知: 由于技术问题，Freenom 的新注册申请暂时无序。
+对于给您带来的不便，请接受我们的道歉。我们正在研究解决方案，希望能尽快恢复运营。
+谢谢你的理解。<br>
+
+意思是注册不了了，现在是2023年4月30日02:26:37，我打开freenom，不知道是不是插件原因，这句话都没有了，大抵以后都没有免费域名了（悲）。
 #### 需要的工具
 必须使用==电脑==，和==Chromium Edge==或者其他支持扩展的浏览器
 ##### 1.下载需要的工具
