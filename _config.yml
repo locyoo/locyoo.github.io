@@ -76,7 +76,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # 是否使用侧栏
 sidebar-about-description: "菩提本无树，何处惹尘埃"
-sidebar-avatar: /img/403f0b8e18a.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
+sidebar-avatar: /img/3062d3d016581.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
