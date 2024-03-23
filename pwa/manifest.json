@@ -1,7 +1,7 @@
 {
-  "name": "我不知啊",
-  "short_name": "我不知啊",
-  "description": "介里洗张思璇的个人博客",
+  "name": "咖咔屋",
+  "short_name": "咖咔屋",
+  "description": "咖咔屋，分享有趣的和好玩儿的",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
