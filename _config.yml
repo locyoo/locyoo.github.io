@@ -5,7 +5,7 @@ header-img: "img/home-bg.webp"
 email: locyoo@gmail.com
 description: "菩提本无树，何处惹尘埃"
 keyword: "咖咔屋, kkkwu"
-url: "https://locyoo.github.io" # your host, for absolute URL
+url: "https://kkkwu.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
