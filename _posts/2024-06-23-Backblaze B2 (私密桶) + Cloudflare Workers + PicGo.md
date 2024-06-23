@@ -52,6 +52,7 @@ tags:
 <br>
 &emsp;&emsp;点击 编辑代码 按钮，在页面中把左侧编辑区中的代码替换为以下代码：
 <br>
+```
 // node_modules/aws4fetch/dist/aws4fetch.esm.mjs
 var encoder = new TextEncoder();
 var HOST_SERVICES = {
@@ -435,6 +436,7 @@ aws4fetch/dist/aws4fetch.esm.mjs:
    *)
 */
 //# sourceMappingURL=index.js.map
+```
 <br>
 &emsp;&emsp;然后点击 保存并部署 按钮。
 <br>
@@ -446,11 +448,13 @@ aws4fetch/dist/aws4fetch.esm.mjs:
 <br>
 &emsp;&emsp;点击 添加变量 按钮，依次添加 5 个变量，变量名称 和 值 分别为：
 <br>
+```
 ALLOW_LIST_BUCKET = false
 B2_APPLICATION_KEY = 第二步保存的 applicationKey
 B2_APPLICATION_KEY_ID = 第二步保存的 keyID
 B2_ENDPOINT = 第一步记下的 Endpoint 值（如 s3.us-west-004.backblazeb2.com）
 BUCKET_NAME = 私密桶名（如 it-is-just-a-test-bucket）
+```
 <br>
 &emsp;&emsp;添加完后，如下图所示：
 <br>
