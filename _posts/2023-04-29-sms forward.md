@@ -12,11 +12,13 @@ tags:
 <br>
 ![test](https://img.locyoo.com/1148.png)
 <br>
+<div style="display:none">
 &emsp;&emsp;2.打开https://push.luatos.org/，Github账号登录以后，直接建立消息通道，选择自定义post，参数如下，该自定义post是推送到企业微信机器人的，用的是群聊机器人的webhook，所以post格式必须符合腾讯的规范。
 <br>
 ![test](https://img.locyoo.com/1149.png)
 ![test](https://img.locyoo.com/1150.png)
 <br>
+</div>
 &emsp;&emsp;3.打开sms_forwarding-master\script\notify.lua，进行一下修改，输入WIFI的SSID和密码，修改luatospush的字符串，注意是建立了消息通道以后消息通道的字符串，而非首页显示的那个字符串。保存
 <br>
 ![test](https://img.locyoo.com/1151.png)
