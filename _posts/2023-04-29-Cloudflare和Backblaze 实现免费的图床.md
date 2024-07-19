@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Cloudflare和Backblaze 实现免费的图床
+title:      本文已失效！！Cloudflare和Backblaze 实现免费的图床
 date:       2023-04-29
 author:     Admin
 header-img: img/post/bg3.webp
@@ -8,6 +8,8 @@ catalog: true
 tags:
     - 网海拾贝
 ---
+本文已失效！！
+<br>
 &emsp;&emsp;Backblaze 提供的存储服务，B2 云存储提供 10 GB 的免费空间，同时 Cloudflare 与 Backblaze 之间的流量不计费，用作为图床是完全足够了。
 <br>
 &emsp;&emsp;使用 Backblaze B2 作为图床的唯一要求就是拥有一条托管在 Cloudflare 上的域名。
