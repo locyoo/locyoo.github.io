@@ -1,1 +1,1 @@
-Hey, I am Cheong Szesuen. I have many other names, for example: WaiJade, Luminous. I am not able to do everything.
+Hey, it's kkkwu.com here, we share interesting things for u.

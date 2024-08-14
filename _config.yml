@@ -1,11 +1,11 @@
 # Site settings
-title: 我不知啊
-SEOTitle: 我不知啊 | Hotel Zulu和Cheong Szesuen的共同BLOG
+title: 咖咔屋
+SEOTitle: 咖咔屋 | 分享有趣和好玩儿的
 header-img: "img/home-bg.webp"
-email: X2430442963X@outlook.com
-description: "和光同尘."
-keyword: "张思璇, CheongSzesuen, HTML, 网站, CSS, BLOG，blog, ZSX, cheongszesuen, cheong-szesuen，怀瑾，WaiJade，HHZ，Hotle Zulu，侯皓哲，启智"
-url: "https://wbza.tk" # your host, for absolute URL
+email: locyoo@gmail.com
+description: "菩提本无树，何处惹尘埃"
+keyword: "咖咔屋, kkkwu"
+url: "kkkwu.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username_none: CheongSzesuen
-#weibo_username_u: CheongSzesuen
-zhihu_username: luminouszhu-jiang-wan
-github_username: CheongSzesuen
-#twitter_username: huxpro
-#facebook_username:  huxpro
+#weibo_username_none: locyoo
+#weibo_username_u: locyoo
+#zhihu_username: locyoo
+#github_username: locyoo
+#twitter_username: locyoo
+#facebook_username:  locyoo 
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -60,7 +60,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: xiaoleee
 
 # Netease settings
 netease_comment: false
@@ -70,13 +70,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # 是否使用侧栏
-sidebar-about-description: "和光同尘"
-sidebar-avatar: /img/Cheong Szesuen.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
+sidebar-about-description: "菩提本无树，何处惹尘埃"
+sidebar-avatar: /img/3062d3d016581.jpg # 使用绝对路径，绝对路径是从根目录的文件夹开始直到目标的文件
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -92,6 +92,49 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "我的个人网站", href: "http://cheongszesuen.cf/" },
-    { title: "Hotel Zulu", href: "https://still-alive-hhz.github.io/" },
+    { title: "荒岛", href: "https://lala.im/" },
+    { title: "VPS大玩家", href: "https://www.vpsdawanjia.com/" },
+    { title: "Jason", href: "https://blog.carjaswong.com/" },
+    { title: "心语家园", href: "https://www.xinyucn.cc/" },
+    { title: "虚拟号", href: "https://xunihao.net/" },
+    { title: "果核剥壳", href: "https://www.ghxi.com/" },
+    { title: "字节智造", href: "https://www.zsxcool.com/" },
+    { title: "全历史", href: "https://www.allhistory.com/" },
+    { title: "小叽资源", href: "https://steamzg.com/" },
+    { title: "无痕哥", href: "https://www.wuhenge.com/" },
+    { title: "程序员阿鑫", href: "https://www.cxyax.com/" },
+    { title: "福利吧", href: "https://fuliba2023.net/" },
+    { title: "小霸王游戏", href: "https://www.yikm.net/" },
+    { title: "nxbrew-Switch", href: "https://nxbrew.com/category/games/switch-nsp/" },
+    { title: "SwitcheShop(NSP)", href: "https://madloader.com/nintendo-switch/switch-eshop-nsp/" },
+    { title: "1fichier-Switch", href: "https://1fichier.com/dir/lnMt5OGF" },
+    { title: "低端影视", href: "https://ddys.pro/" },
+    { title: "freemagazinepdf", href: "https://freemagazinepdf.com/" },
+    { title: "Switch攻略阁", href: "http://www.265xh.com/nszhinan/index_2.html" },
+    { title: "Mixkit-视频素材、AE/PR模板", href: "https://mixkit.co/" },
+    { title: "Azlyrics-音乐歌词", href: "https://www.azlyrics.com/" },
+    { title: "有谱网", href: "https://yopu.co/start?mode=startup" },
+    { title: "电视眼", href: "http://www.tvyan.com/" },
+    { title: "mult-动画旅游地图", href: "https://mult.dev/zh" },
+    { title: "WINOS", href: "https://www.winos.me/" },   
+    { title: "创客贴", href: "https://www.chuangkit.com/designtools/startdesign" },
+    { title: "MagicEraser-删除照片中的物体", href: "https://magicstudio.com/zh/magiceraser/" },   
+    { title: "upscale-改变图片分辨率", href: "https://www.upscale.media/zh" },
+    { title: "字由-字体", href: "https://www.hellofont.cn/home" },   
+    { title: "MSDNItellU", href: "https://msdn.itellyou.cn/" },
+    { title: "电子包浆-图片做旧", href: "https://magiconch.com/patina/" },
+    { title: "接码号", href: "https://jiemahao.com/" },
+    { title: "BridgeDB-Tor网桥", href: "https://bridges.torproject.org/" },
+    { title: "remove-在线抠图", href: "https://www.remove.bg/zh" },
+    { title: "telsearch", href: "https://www.telsearch.me/" },
+    { title: "千帆搜索", href: "https://tg.qianfan.app/" },
+    { title: "photopea-在线PS", href: "https://www.photopea.com/" },
+    { title: "openshot-视频编辑", href: "https://www.openshot.org/" },
+    { title: "watermark-在线添加水印", href: "https://efrice.github.io/watermark/" },
+    { title: "easygif-GIF编辑器", href: "https://www.easygif.tools/#/" },
+    { title: "photoroom-图片背景去除", href: "https://www.photoroom.com/tools/background-remover" },
+    { title: "unscreen-视频背景去除", href: "https://www.unscreen.com/" },
+    { title: "mockuuups-海报设计", href: "https://mockuuups.studio/" },
+    { title: "OBS-直播推流录制", href: "https://obsproject.com/" },
+
   ]
